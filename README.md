@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @HernanBermudez
-- 👀  I’m interested in electronics engineering, machine learning, IoT, web development and mobile apps, all of this towards finding the best ways to take advantage of new technologies and having fun.
-- 🌱  I’m currently learning the necessary technologies to become a Full Stack Python Developer, such as HTML, CSS, Javascript, React, MySQL, MongoDB, Python, Django and Flask. Also, I have developed cross platform apps using Xamarin.
+- 👀  I’m interested in electronics and telecommunications engineering, machine learning, IoT and software development, all of this towards finding the best ways to take advantage of new technologies and having fun.
+- 🌱  I’m Full Stack Developer. The technologies that I have more experience are HTML, CSS, Javascript, React, MySQL, MongoDB, Java, Python, Django and Flask.
 - 📫  How to reach me: hbermudez.info@gmail.com
 
 <!---
